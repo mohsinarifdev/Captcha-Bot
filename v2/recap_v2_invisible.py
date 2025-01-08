@@ -6,7 +6,7 @@ from twocaptcha import TwoCaptcha
 import time
 from selenium.webdriver.chrome.service import Service
 
-API_KEY="376856f5386c731f51e98830324cfda5"
+API_KEY="your api key"
 print("key is loaded !")
 
 solver = TwoCaptcha(API_KEY)
