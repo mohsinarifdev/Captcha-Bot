@@ -8,7 +8,7 @@ from twocaptcha import TwoCaptcha
 from selenium.webdriver.chrome.options import Options
 import time
 
-API_KEY="376856f5386c731f51e98830324cfda5"
+API_KEY="your api key"
 print("key is loaded !")
 
 solver = TwoCaptcha(API_KEY)
